@@ -199,15 +199,7 @@
         "r_price" : "$550",
         "s_price" : "$530",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    },
-    {
-        "id"      : 25,
-        "title"   : "Godrej good knight power activ refill 45ml",
-        "img"     : "https://i.ibb.co/5jhKDMf/godrej-good-knight-power-activ-refill-45-ml.webp",
-        "r_price" : "$150",
-        "s_price" : "$130",
-        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    }
+    }   
 ],
 
     "category" : [
