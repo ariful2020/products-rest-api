@@ -30,8 +30,8 @@
 },
 {
         "id"      : 4,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Almer Liquid Dish Wash Combo Offer",
+        "img"     : "https://i.ibb.co/n0G4r21/almer-liquid-dish-wash-combo-offer-250-ml.webp",
         "r_price" : "$150",
         "s_price" : "$130",
         "color"   : "Pink, Yellow",
@@ -39,8 +39,8 @@
     },
     {
         "id"      : 5,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Aptamil 2 Follow on Milk-6-12-Months",
+        "img"     : "https://i.ibb.co/y8wNKY1/aptamil-2-follow-on-milk-6-12-months-800-gm.webp",
         "r_price" : "$200",
         "s_price" : "$180",
         "color"   : "Red, Blue",
@@ -48,26 +48,24 @@
 },
 {
         "id"      : 6,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Ariel Complete Detergent Washing Powder",
+        "img"     : "https://i.ibb.co/pQMP7kQ/ariel-complete-detergent-washing-powder-500-gm.webp",
         "r_price" : "$150",
         "s_price" : "$130",
-        "color"   : "Pink, Yellow",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
         "id"      : 7,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Athash Rice",
+        "img"     : "https://i.ibb.co/G0sHmsT/athash-rice-5-kg.webp",
         "r_price" : "$200",
         "s_price" : "$180",
-        "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
 {
         "id"      : 8,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Aveeno Daily Care Baby Moisturising Lotion",
+        "img"     : "https://i.ibb.co/MV2vhG5/aveeno-daily-care-baby-moisturising-lotion-150-ml.webp",
         "r_price" : "$150",
         "s_price" : "$130",
         "color"   : "Pink, Yellow",
@@ -75,80 +73,72 @@
     },
     {
         "id"      : 9,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Baby Meal Wheat Fruits Cereal Jar",
+        "img"     : "https://i.ibb.co/8rpWZmc/baby-meal-wheat-3-fruits-cereal-jar-6-12-month-400-gm.webp",
         "r_price" : "$200",
         "s_price" : "$180",
-        "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
 {
         "id"      : 10,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Baoma Mosquito Coil",
+        "img"     : "https://i.ibb.co/vhrY6tj/baoma-mosquito-coil-10-pcs.webp",
         "r_price" : "$150",
         "s_price" : "$130",
-        "color"   : "Pink, Yellow",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
         "id"      : 11,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Bashundhara Hand Towel Ply Chaldal",
+        "img"     : "https://i.ibb.co/L52bshD/bashundhara-hand-towel-1-ply-chaldal-logo-250-pcs.webp",
         "r_price" : "$200",
         "s_price" : "$180",
-        "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
 {
         "id"      : 12,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Biomil Follow up milk powder tin 2-3 years",
+        "img"     : "https://i.ibb.co/1b13nsM/biomil-4-follow-up-milk-powder-tin-2-3-years-400-gm.webp",
         "r_price" : "$150",
         "s_price" : "$130",
-        "color"   : "Pink, Yellow",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
         "id"      : 13,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Cat partner bentonite cat litter coffee flavour",
+        "img"     : "https://i.ibb.co/Xt0BHzB/cat-partner-bentonite-cat-litter-coffee-flavour-10-ltr.webp",
         "r_price" : "$200",
         "s_price" : "$180",
-        "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
 {
         "id"      : 14,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Chashi aromatic chinigura rice",
+        "img"     : "https://i.ibb.co/wLsGrtX/chashi-aromatic-chinigura-rice-1-kg.webp",
         "r_price" : "$150",
         "s_price" : "$130",
-        "color"   : "Pink, Yellow",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
         "id"      : 15,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Chashi aromatic chinigura rice 2kg",
+        "img"     : "https://i.ibb.co/MfvFXwH/chashi-aromatic-chinigura-rice-2-kg.webp",
         "r_price" : "$200",
         "s_price" : "$180",
-        "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
 {
         "id"      : 16,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Chinigura rice 1kg",
+        "img"     : "https://i.ibb.co/Hz9BS1Y/chinigura-rice-1-kg.webp        ",
         "r_price" : "$150",
         "s_price" : "$130",
-        "color"   : "Pink, Yellow",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
         "id"      : 17,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Complan chocolate jar 200gm",
+        "img"     : "https://i.ibb.co/T0x1W3V/complan-chocolate-jar-200-gm.webp        ",
         "r_price" : "$200",
         "s_price" : "$180",
         "color"   : "Red, Blue",
@@ -156,8 +146,8 @@
 },
 {
         "id"      : 18,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Daawat biryani basmati rice 1kg",
+        "img"     : "https://i.ibb.co/tmdZShp/daawat-biryani-basmati-rice-1-kg.webp",
         "r_price" : "$150",
         "s_price" : "$130",
         "color"   : "Pink, Yellow",
@@ -165,8 +155,8 @@
     },
     {
         "id"      : 19,
-        "title"   : "Polo T-Shirt",
-        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "title"   : "Ensure plus vanilla flavour powder jar",
+        "img"     : "https://i.ibb.co/r2P2L2L/ensure-plus-vanilla-flavour-powder-jar-400-gm.webp",
         "r_price" : "$200",
         "s_price" : "$180",
         "color"   : "Red, Blue",
@@ -174,8 +164,8 @@
 },
 {
         "id"      : 20,
-        "title"   : "Polo T-Shirt Women",
-        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "title"   : "Farlin tableware set all in one per",
+        "img"     : "https://i.ibb.co/mbgyRtq/farlin-tableware-set-all-in-one-per-246-1-pack.webp",
         "r_price" : "$150",
         "s_price" : "$130",
         "color"   : "Pink, Yellow",
@@ -188,7 +178,9 @@
         "id"    : 1,
         "man"   : "Man T-Shirt",
         "woman" : "Woman T-Shirt",
-        "baby"  : "Baby Cloth"
+        "baby"  : "Baby Cloth",
+        "chal"  : "chal",
+        "w_powder"  : "w_powder"
 
         }
 ],
