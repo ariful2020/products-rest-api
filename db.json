@@ -32,8 +32,8 @@
         "id"      : 4,
         "title"   : "Almer Liquid Dish Wash Combo Offer",
         "img"     : "https://i.ibb.co/n0G4r21/almer-liquid-dish-wash-combo-offer-250-ml.webp",
-        "r_price" : "$150",
-        "s_price" : "$130",
+        "r_price" : "$250",
+        "s_price" : "$230",
         "color"   : "Pink, Yellow",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
@@ -41,8 +41,8 @@
         "id"      : 5,
         "title"   : "Aptamil 2 Follow on Milk-6-12-Months",
         "img"     : "https://i.ibb.co/y8wNKY1/aptamil-2-follow-on-milk-6-12-months-800-gm.webp",
-        "r_price" : "$200",
-        "s_price" : "$180",
+        "r_price" : "$300",
+        "s_price" : "$380",
         "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
@@ -66,8 +66,8 @@
         "id"      : 8,
         "title"   : "Aveeno Daily Care Baby Moisturising Lotion",
         "img"     : "https://i.ibb.co/MV2vhG5/aveeno-daily-care-baby-moisturising-lotion-150-ml.webp",
-        "r_price" : "$150",
-        "s_price" : "$130",
+        "r_price" : "$350",
+        "s_price" : "$330",
         "color"   : "Pink, Yellow",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
@@ -115,8 +115,8 @@
         "id"      : 14,
         "title"   : "Chashi aromatic chinigura rice",
         "img"     : "https://i.ibb.co/wLsGrtX/chashi-aromatic-chinigura-rice-1-kg.webp",
-        "r_price" : "$150",
-        "s_price" : "$130",
+        "r_price" : "$250",
+        "s_price" : "$230",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
@@ -131,8 +131,8 @@
         "id"      : 16,
         "title"   : "Chinigura rice 1kg",
         "img"     : "https://i.ibb.co/Hz9BS1Y/chinigura-rice-1-kg.webp        ",
-        "r_price" : "$150",
-        "s_price" : "$130",
+        "r_price" : "$250",
+        "s_price" : "$230",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
@@ -141,16 +141,14 @@
         "img"     : "https://i.ibb.co/T0x1W3V/complan-chocolate-jar-200-gm.webp        ",
         "r_price" : "$200",
         "s_price" : "$180",
-        "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
 {
         "id"      : 18,
         "title"   : "Daawat biryani basmati rice 1kg",
         "img"     : "https://i.ibb.co/tmdZShp/daawat-biryani-basmati-rice-1-kg.webp",
-        "r_price" : "$150",
-        "s_price" : "$130",
-        "color"   : "Pink, Yellow",
+        "r_price" : "$250",
+        "s_price" : "$230",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     },
     {
@@ -159,16 +157,175 @@
         "img"     : "https://i.ibb.co/r2P2L2L/ensure-plus-vanilla-flavour-powder-jar-400-gm.webp",
         "r_price" : "$200",
         "s_price" : "$180",
-        "color"   : "Red, Blue",
         "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
 },
 {
         "id"      : 20,
         "title"   : "Farlin tableware set all in one per",
         "img"     : "https://i.ibb.co/mbgyRtq/farlin-tableware-set-all-in-one-per-246-1-pack.webp",
+        "r_price" : "$250",
+        "s_price" : "$230",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 21,
+        "title"   : "Finis phenyle extra strong toilet floor cleaner",
+        "img"     : "https://i.ibb.co/VvD54XV/finis-phenyle-extra-strong-toilet-floor-cleaner-3-ltr.webp",
+        "r_price" : "$350",
+        "s_price" : "$330",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 22,
+        "title"   : "Finis wood preservative tin 480ml",
+        "img"     : "https://i.ibb.co/nLNB5wp/finis-wood-preservative-tin-480-ml.webp",
+        "r_price" : "$450",
+        "s_price" : "$430",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 23,
+        "title"   : "Fresh hand towel 1box",
+        "img"     : "https://i.ibb.co/fdfs4yh/fresh-hand-towel-1-box.webp",
+        "r_price" : "$350",
+        "s_price" : "$330",
+        "color"   : "Pink, Yellow",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 24,
+        "title"   : "Fresh perfumed facial tissue",
+        "img"     : "https://i.ibb.co/NKMSxst/fresh-perfumed-facial-tissue-150-x-2-ply-box-1-pcs.webp",
+        "r_price" : "$550",
+        "s_price" : "$530",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 25,
+        "title"   : "Godrej good knight power activ refill 45ml",
+        "img"     : "https://i.ibb.co/5jhKDMf/godrej-good-knight-power-activ-refill-45-ml.webp",
         "r_price" : "$150",
         "s_price" : "$130",
-        "color"   : "Pink, Yellow",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 26,
+        "title"   : "Godrej good knight power activ twin saver pack",
+        "img"     : "https://i.ibb.co/zZ6YRcj/godrej-good-knight-power-activ-twin-saver-pack-45-ml-1-pcs.webp",
+        "r_price" : "$250",
+        "s_price" : "$230",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 27,
+        "title"   : "Godrej proclean disinfectant toilet floor cleaner",
+        "img"     : "https://i.ibb.co/DDPPn3h/godrej-proclean-disinfectant-toilet-floor-cleaner-combo-1000-ml.webp",
+        "r_price" : "$350",
+        "s_price" : "$330",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 28,
+        "title"   : "Haisenpet clumping cat litter lemon 10ltr",
+        "img"     : "https://i.ibb.co/MRHCSzg/haisenpet-clumping-cat-litter-lemon-10-ltr.webp",
+        "r_price" : "$450",
+        "s_price" : "$430",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 29,
+        "title"   : "Harpic bathroom cleaning powder original",
+        "img"     : "https://i.ibb.co/LJ2zbF3/harpic-bathroom-cleaning-powder-original-400-gm.webp",
+        "r_price" : "$150",
+        "s_price" : "$130",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 30,
+        "title"   : "Katari boiled rice 5kg",
+        "img"     : "https://i.ibb.co/yYFzB88/katari-boiled-rice-5-kg.webp",
+        "r_price" : "$250",
+        "s_price" : "$230",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    },
+    {
+        "id"      : 31,
+        "title"   : "Heinz creamy pear banana 110gm",
+        "img"     : "https://i.ibb.co/Vg864WD/heinz-creamy-pear-banana-110-gm.webp        ",
+        "r_price" : "$350",
+        "s_price" : "$330",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 32,
+        "title"   : "Hisenpet white cat litter coffee 5 ltr",
+        "img"     : "https://i.ibb.co/K6D6SJ3/hisenpet-white-cat-litter-coffee-5-ltr.webp        ",
+        "r_price" : "$150",
+        "s_price" : "$130",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 33,
+        "title"   : "Horlicks health and nutrition drink jar 500gm",
+        "img"     : "https://i.ibb.co/W0LtJ21/horlicks-health-and-nutrition-drink-jar-500-gm.webp        ",
+        "r_price" : "$350",
+        "s_price" : "$320",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 34,
+        "title"   : "Jhokmok dishwashing bar buy 3 get 1 free 300gm",
+        "img"     : "https://i.ibb.co/brYPJdp/jhokmok-dishwashing-bar-buy-3-get-1-free-300-gm.webp        ",
+        "r_price" : "$250",
+        "s_price" : "$230",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 35,
+        "title"   : "Johnsons baby jelly lightly fragranced 250ml",
+        "img"     : "https://i.ibb.co/m9xj1XX/johnsons-baby-jelly-lightly-fragranced-250-ml.webp        ",
+        "r_price" : "$250",
+        "s_price" : "$220",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 36,
+        "title"   : "Kodomo baby 3 fabric softener 600ml",
+        "img"     : "https://i.ibb.co/422hbJy/kodomo-baby-3-fabric-softener-600-ml.webp        ",
+        "r_price" : "$450",
+        "s_price" : "$430",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 37,
+        "title"   : "Lazzat super basmati rice 1kg",
+        "img"     : "https://i.ibb.co/DQPvfBD/lazzat-super-basmati-rice-1-kg.webp        ",
+        "r_price" : "$140",
+        "s_price" : "$120",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 38,
+        "title"   : "Miniket rice standard 5kg",
+        "img"     : "https://i.ibb.co/r51VV4T/miniket-rice-standard-5-kg.webp",
+        "r_price" : "$550",
+        "s_price" : "$530",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 39,
+        "title"   : "Miniket rice standard 25kg",
+        "img"     : "https://i.ibb.co/DLsqS0C/miniket-rice-standard-25-kg.webp",
+        "r_price" : "$2200",
+        "s_price" : "$2130",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }, 
+    {
+        "id"      : 40,
+        "title"   : "Neelam rozana long grain aromatic rice 1kg",
+        "img"     : "https://i.ibb.co/bWnWCMs/neelam-rozana-long-grain-aromatic-rice-1-kg.webp",
+        "r_price" : "$120",
+        "s_price" : "$100",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     }   
 ],
