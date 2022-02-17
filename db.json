@@ -199,54 +199,6 @@
         "r_price" : "$550",
         "s_price" : "$530",
         "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    },
-    {
-        "id"      : 25,
-        "title"   : "Godrej good knight power activ refill 45ml",
-        "img"     : "https://i.ibb.co/5jhKDMf/godrej-good-knight-power-activ-refill-45-ml.webp",
-        "r_price" : "$150",
-        "s_price" : "$130",
-        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    },
-    {
-        "id"      : 26,
-        "title"   : "Godrej good knight power activ twin saver pack",
-        "img"     : "https://i.ibb.co/zZ6YRcj/godrej-good-knight-power-activ-twin-saver-pack-45-ml-1-pcs.webp",
-        "r_price" : "$250",
-        "s_price" : "$230",
-        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    },
-    {
-        "id"      : 27,
-        "title"   : "Godrej proclean disinfectant toilet floor cleaner",
-        "img"     : "https://i.ibb.co/DDPPn3h/godrej-proclean-disinfectant-toilet-floor-cleaner-combo-1000-ml.webp",
-        "r_price" : "$350",
-        "s_price" : "$330",
-        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    },
-    {
-        "id"      : 28,
-        "title"   : "Haisenpet clumping cat litter lemon 10ltr",
-        "img"     : "https://i.ibb.co/MRHCSzg/haisenpet-clumping-cat-litter-lemon-10-ltr.webp",
-        "r_price" : "$450",
-        "s_price" : "$430",
-        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    },
-    {
-        "id"      : 29,
-        "title"   : "Harpic bathroom cleaning powder original",
-        "img"     : "https://i.ibb.co/LJ2zbF3/harpic-bathroom-cleaning-powder-original-400-gm.webp",
-        "r_price" : "$150",
-        "s_price" : "$130",
-        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
-    },
-    {
-        "id"      : 30,
-        "title"   : "Katari boiled rice 5kg",
-        "img"     : "https://i.ibb.co/yYFzB88/katari-boiled-rice-5-kg.webp",
-        "r_price" : "$250",
-        "s_price" : "$230",
-        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
     }   
 ],
 
