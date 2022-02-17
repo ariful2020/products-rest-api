@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "name": "products_api",
+  "version": "1.0.0",
+  "description": "This is Our Products Rest APi",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "products": "json-server --watch db.json --port 2020"
+  },
+  "author": "Ariful Islam",
+  "license": "ISC"
+}

@@ -1,0 +1,42 @@
+
+{
+    "products" : [
+        {
+        "id"      : 1,
+        "title"   : "Polo T-Shirt",
+        "img"     : "https://cdn.shopify.com/s/files/1/0013/6917/8187/products/SD_03_T28_5000M_P0_X_EC_90_480x.jpg?v=1600066912",
+        "r_price" : "$200",
+        "s_price" : "$180",
+        "color"   : "Red, Blue",
+        "dis"     : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+},
+{
+        "id"      : 2,
+        "title"   : "Polo T-Shirt Women",
+        "img"     : "https://www.redcross.org/dw/image/v2/BBRM_PRD/on/demandware.static/-/Sites-PhysicalProductCatalog/default/dwb2513482/Images/apparel-and-accessories/ARC116_model_black.png?sw=1350&sh=1000&sm=fit",
+        "r_price" : "$150",
+        "s_price" : "$130",
+        "color"   : "Pink, Yellow",
+        "dis"     :"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam impedit qui vero. Eaque, animi accusantium?"
+    }],
+
+    "category" : [
+        {   
+        "id"    : 1,
+        "man"   : "Man T-Shirt",
+        "woman" : "Woman T-Shirt",
+        "baby"  : "Baby Cloth"
+
+        }
+],
+
+    "brand" : [{
+
+        "id" : 1,
+        "brand-1" : "Arong",
+        "brand-2" : "U-Turn",
+        "brand-3" : "Easy Fasion",
+        "brand-4" : "Armany Fasion"
+
+    }]
+}
