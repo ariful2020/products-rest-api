@@ -204,23 +204,36 @@
 
     "category" : [
         {   
-        "id"    : 1,
-        "man"   : "Man T-Shirt",
-        "woman" : "Woman T-Shirt",
-        "baby"  : "Baby Cloth",
-        "chal"  : "chal",
-        "w_powder"  : "w_powder"
-
+            "id"    : 1,
+            "man"   : "Man T-Shirt"
+        },{
+            "id"    : 2,
+            "woman" : "Woman T-Shirt"
+        },{
+            "id"    : 3,
+            "baby"  : "Baby Cloth"
+        },{
+            "id"    : 4,
+            "chal"  : "chal"
+        },{
+            "id"        :5,
+            "w_powder"  : "w_powder"
         }
 ],
 
     "brand" : [{
 
-        "id" : 1,
-        "brand-1" : "Arong",
-        "brand-2" : "U-Turn",
-        "brand-3" : "Easy Fasion",
+        "id"      : 1,
+        "brand-1" : "Arong"
+    },{
+        "id"      : 2,
+        "brand-2" : "U-Turn"
+    },{
+        "id"      : 3,
+        "brand-3" : "Easy Fasion"
+    },{
+        "id"      : 4,
         "brand-4" : "Armany Fasion"
-
-    }]
+    }
+]
 }
